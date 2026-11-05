@@ -2,12 +2,6 @@
 
 A Halloween festival FPS in Rust + Bevy 0.20. Pumpkin-headed scarecrows pour out of the corn maze in waves. Fight them off with a candy-themed arsenal, using hay bales and booths as cover.
 
-| | |
-|---|---|
-| ![The Pumpkin King boss with a bat overhead](screenshots/boss.png) | ![Weapon customizer in the shop](screenshots/shop.png) |
-| ![Title screen and settings](screenshots/title.png) | ![Bat pumpkin dive-bombing](screenshots/combat.png) |
-
-![Pathfinding test: paths from every spawn point to the player, around props](screenshots/pathfinding.png)
 
 **What's in it:** 4 weapons plus a pitchfork and candy grenades, 5 enemy types (including a dive-bombing bat), 3 rotating bosses, a between-wave shop with upgrades, weapon unlocks, and 23 attachments, aim down sights with scopes, power-ups, flow-field pathfinding, Easy/Normal/Hard, saved settings and best scores. There are no asset files: every model is built from primitive shapes and every sound is synthesized in code.
 
